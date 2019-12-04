@@ -1,9 +1,9 @@
-# Non-functionality
+# Non-functionality tools
 
  * [WebPageTest](https://www.webpagetest.org/) - perf testing 
  * [Google speed test](https://developers.google.com/speed/pagespeed) - perf testing by google 
 
-# functionality
+# functionality tools
 
  * [Chrome driver](https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.105/) - install google driver
  * [Firefox driver](https://github.com/mozilla/geckodriver/releases) - install firefox driver
